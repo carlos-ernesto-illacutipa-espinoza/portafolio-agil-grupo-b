@@ -1,7 +1,7 @@
 # Astro Developer Portfolio Template
 A minimal, easy-to-customize developer portfolio template built with [Astro](https://astro.build/) and [TailwindCSS](https://tailwindcss.com/). No JavaScript in final build.
 
-## Demo
+## Demo Rama dev
 Check out a real-world example: [devidev.io](https://devidev.io)
 
 ![Astro Developer Portfolio Template - About Preview | devi|dev|io](assets/preview-about.png)
